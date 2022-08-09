@@ -60,3 +60,4 @@ console.log(typeof dataTypes.length)
 // String, 6
 // String, 7
 // b) Verify and explain: I got back the string number. I think this is because the dataTypes.length returned a number, in the first case 6, and then that was read in the typeof method and displayed instead of the string. I had assumed because typeof was first, that it would first read it as a string, but I was wrong there. 
+
